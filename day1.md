@@ -1,6 +1,6 @@
 # Day1 第一章 数组 part01
 
-> 部分资料来源地址：[代码随想录 (programmercarl.com)](https://programmercarl.com/数组理论基础.html)
+> 资料来源地址：[代码随想录 (programmercarl.com)](https://programmercarl.com/数组理论基础.html)
 
 ## 数组理论基础
 
